@@ -1,3 +1,3 @@
 print("primeiro git")
-print("ttestando oo commit")
-print("LOL")
+print("testando oo commit")
+print("testando o fetch")
